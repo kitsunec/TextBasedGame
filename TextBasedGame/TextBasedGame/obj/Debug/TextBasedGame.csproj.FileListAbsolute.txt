@@ -4,3 +4,9 @@ C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame
 C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.csproj.CoreCompileInputs.cache
 C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.exe
 C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.pdb
+C:\Unity\TextBasedGame\TextBasedGame\TextBasedGame\bin\Debug\TextBasedGame.exe
+C:\Unity\TextBasedGame\TextBasedGame\TextBasedGame\bin\Debug\TextBasedGame.pdb
+C:\Unity\TextBasedGame\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.csproj.AssemblyReference.cache
+C:\Unity\TextBasedGame\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.csproj.CoreCompileInputs.cache
+C:\Unity\TextBasedGame\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.exe
+C:\Unity\TextBasedGame\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.pdb
