@@ -1,0 +1,6 @@
+C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\bin\Debug\TextBasedGame.exe
+C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\bin\Debug\TextBasedGame.pdb
+C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.csproj.AssemblyReference.cache
+C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.exe
+C:\Users\ahmet\RiderProjects\TextBasedGame\TextBasedGame\obj\Debug\TextBasedGame.pdb
